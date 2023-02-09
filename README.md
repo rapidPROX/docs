@@ -1,2 +1,2 @@
-# docs
+# Documentation
 User and developer documentation
