@@ -5,7 +5,7 @@ There are a myriad of challenges developing a software framework that can ensure
 
 rapidPROX is a feature-rich software framework for testing, analysing and debugging fast-path networking infrastructures designed to run network intensive applications. It currently includes support for both VMs and container based environments. The toolset includes highly configurable and flexible traffic generator, workloads and a controller for automation of configurations, running tests and collecting results.
 
-Functional components of rapidPROX includes:
+rapidPROX functionality includes:
 
 1. A dpdk application configured as a traffic generator that can be run stand-alone through a command-line interface or as part of an automated framework.
 2. A highly configurable dpdk application that can approximate key processing elements of a real workload.
