@@ -1,9 +1,9 @@
 # rapidPROX Documentation
 ## User and developer documentation
 
-There are a myriad of challenges developing a software framework that can ensure reliable and accurate KPI measurements for today's demanding Cloud based infrastructures to meet the requirements of Telco applications and Virtualized Network Functions. 
+There are a myriad of challenges developing a software framework that can ensure reliable and accurate KPI measurements for today's demanding Cloud based infrastructures to meet the requirements of Telco applications and Virtualized Network Functions. rapidPROX is the result of many years of collective development by virtualized networking performance and telecoms experts and delivers on these challenges. 
 
-rapidPROX is a feature-rich software framework for testing, analysing and debugging fast-path networking infrastructure for runninng network intensive applications. rapidRROX currently includes support for both VMs and container based environments. The toolset includes a highly configurable and flexible traffic generator, configurable workloads and a controller for automation of deployment, running tests and collecting results.
+rapidPROX is a feature-rich software framework for testing, analysing and debugging fast-path networking infrastructures designed to run network intensive applications. It currently includes support for both VMs and container based environments. The toolset includes highly configurable and flexible traffic generator, workloads and a controller for automation of configurations, running tests and collecting results.
 
 Functional components of rapidPROX includes:
 
