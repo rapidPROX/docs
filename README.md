@@ -1,4 +1,4 @@
-# Documentation
+# rapidPROX Documentation
 ## User and developer documentation
 
 The rapidPROX framework consists of ...
