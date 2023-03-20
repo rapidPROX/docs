@@ -1,5 +1,5 @@
 # rapidPROX Documentation
-## User and developer documentation
+## Overview
 
 There are a myriad of challenges developing a software framework that can ensure reliable and accurate KPI measurements for today's demanding Cloud based infrastructures to meet the requirements of Telco applications and Virtualized Network Functions. rapidPROX is the result of many years of collective development by virtualized networking performance and telecoms experts and delivers on these challenges. 
 
